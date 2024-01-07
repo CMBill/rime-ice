@@ -1,0 +1,15 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.15.0.0
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Sun Jan  7 14:52:02 2024"
+  rime_version: 1.8.5
+patch:
+  schema_list:
+    - {schema: luna_pinyin}
+    - {schema: luna_pinyin_simp}
+    - {schema: luna_pinyin_fluency}
+    - {schema: double_pinyin_flypy}
+    - {schema: rime_ice}
+  "menu/page_size": 9
+  

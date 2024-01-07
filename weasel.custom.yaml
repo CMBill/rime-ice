@@ -1,0 +1,11 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.15.0.0
+  generator: "Weasel::UIStyleSettings"
+  modified_time: "Sun Jan  7 14:55:39 2024"
+  rime_version: 1.8.5
+patch:
+  "style/color_scheme": flypy
+  "style/font_face": "LXGW Wenkai Screen"
+  "style/inline_preedit": false
+  "style/label_font_point": 10
